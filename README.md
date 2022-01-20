@@ -5,7 +5,7 @@ Important Notice: The Base Code for the Server is a modified and edited version 
 **HOW TO TEST** (In Windows)
 >Requirements
 
-Having Downloaded Node.js (in order to use ***npm***)
+Having Downloaded **Node.js** (in order to use ***npm***)
 <br />
 >Follow Steps
 
