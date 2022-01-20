@@ -39,5 +39,5 @@ Having Downloaded Node.js (in order to use ***npm***)
 </pre>
 
 
-or try some of the Queries from Queries.txt
+or try some of the Queries from *Queries.txt*
 
