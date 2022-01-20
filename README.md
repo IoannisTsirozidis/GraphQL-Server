@@ -9,7 +9,7 @@ Having Downloaded Node.js (in order to use ***npm***)
 <br />
 >Follow Steps
 
-1. clone the repository to a desired location of your PC, using the command in CMD: git clone repository_url (the repository url can be obtained from GitHub online clicking on the green Code Button)
+1. clone the repository to a desired location of your PC, using the command in CMD: ***git clone repository_url*** (the repository url can be obtained from GitHub online clicking on the green Code Button)
 2. After cloning is completed, open the cmd again and move to the repository directory that has been created. (***cd GraphQL-Server***)
 3. Then, move to 'server' directory (***cd server***)
 4. In this directory, run the commands one by one:
