@@ -1,0 +1,63 @@
+Books Collection in Mongo Database:
+
+{
+  "data": {
+    
+     "books": [
+      {
+        "name": "The Long Earth",
+        "id": "61e93bd492e7d5c2bfe2b63e",
+        "genre": "Sci-Fi",
+        "author": {
+          "name": "Terry Pratchett",
+          "id": "61e939443c0064c8762fa658"
+        }
+      },
+      {
+        "name": "Name of the Wind",
+        "id": "61e93f2e92e7d5c2bfe2b640",
+        "genre": "Fantasy",
+        "author": {
+          "name": "Patrick Rothfuss",
+          "id": "61e939183c0064c8762fa654"
+        }
+      },
+      {
+        "name": "The Final Empire",
+        "id": "61e93f5692e7d5c2bfe2b642",
+        "genre": "Fantasy",
+        "author": {
+          "name": "Brandon Sanderson",
+          "id": "61e9392e3c0064c8762fa656"
+        }
+      },
+      {
+        "name": "The Hero of Ages",
+        "id": "61e93f9192e7d5c2bfe2b644",
+        "genre": "Fantasy",
+        "author": {
+          "name": "Brandon Sanderson",
+          "id": "61e9392e3c0064c8762fa656"
+        }
+      },
+      {
+        "name": "The Colour of Magic",
+        "id": "61e93fba92e7d5c2bfe2b646",
+        "genre": "Fantasy",
+        "author": {
+          "name": "Terry Pratchett",
+          "id": "61e939443c0064c8762fa658"
+        }
+      },
+      {
+        "name": "The Light Fantastic",
+        "id": "61e93fd392e7d5c2bfe2b648",
+        "genre": "Fantasy",
+        "author": {
+          "name": "Terry Pratchett",
+          "id": "61e939443c0064c8762fa658"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+Authors Collection in MongoDB:
+
+
+{
+  "data": {
+    "authors": [
+      {
+        "name": "Patrick Rothfuss",
+        "id": "61e939183c0064c8762fa654",
+        "age": 44
+      },
+      {
+        "name": "Brandon Sanderson",
+        "id": "61e9392e3c0064c8762fa656",
+        "age": 42
+      },
+      {
+        "name": "Terry Pratchett",
+        "id": "61e939443c0064c8762fa658",
+        "age": 66
+      }
+    ]
+  }
+}
